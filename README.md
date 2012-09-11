@@ -1,4 +1,4 @@
-# Learaning Haskell
+# Learning Haskell
 
 ## Haskell Overview
 
